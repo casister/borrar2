@@ -1,0 +1,10 @@
+
+State Machine - |borrar|nes
+Name nes.mdown0 nes.mdown1 nes.mup2 nes.mup1 nes.f2 nes.f1 nes.f0 
+nes.f0 0 0 0 0 0 0 0 
+nes.f1 0 0 0 0 0 1 1 
+nes.f2 0 0 0 0 1 0 1 
+nes.mup1 0 0 0 1 0 0 1 
+nes.mup2 0 0 1 0 0 0 1 
+nes.mdown1 0 1 0 0 0 0 1 
+nes.mdown0 1 0 0 0 0 0 1 
